@@ -10,7 +10,8 @@ Motivation for the project was to learn how to interacdt with API'S.  Why did I 
 
 - [Installation](#installation)
 - [License](#license)
-- [Instructions](#license)
+- [Instructions](#instructions)
+- [Links](#links)
 - [Questions](#questions)
 
 ## Installation
@@ -32,6 +33,11 @@ Screen shot of application running:
 ![Alt text](./assets/weatherApp.png "Application Screen Shot")
 
 
+## Links
+
+[github repository](https://github.com/JeffC87/WeatherApp)<br>
+
+[live web site on render](https://weatherapp-bo1f.onrender.com/)
 
 ## Questions
 
